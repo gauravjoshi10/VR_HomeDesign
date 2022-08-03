@@ -10,4 +10,4 @@ for Three.js where developers can create 3D and WebVR scenes using HTML.
 Knowledge of HTML and Javascript is must.
 
 # Software Required
-VS Code Editor, Google Chrom
+VS Code Editor, Google Chrome
